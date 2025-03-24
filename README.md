@@ -77,10 +77,10 @@ Finally EfficientNet model was found to be one of the best performing model simi
 -Deploying the model as a web application or mobile app<br>
 
 # Contributors
+-Rakesh Kumar chaudhary<br>
 -Ishan Bista <br>
 -Aashish Pandey<br>
 -Oman Neupane<br>
--Rakesh Kumar chaudhary<br>
 -Nijjal Kachhapati
 
 # Project Final Report link:  https://drive.google.com/file/d/1Ql07Y5ZxqMZ3K3lOvrCrYtc_A5Ay9mIT/view?usp=sharing
